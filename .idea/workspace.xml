@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0875a7f0-c69d-480f-b451-1925783dd308" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/adapter/ControleDePonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/adapter/ControleDePontoAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/adapter/ControleDePontoNovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/adapter/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/adapter/TestaControleDePonto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bridge/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bridge/GeradorDeArquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bridge/GeradorDeArquivoTXT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bridge/Recibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/bridge/TesteRecibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/composite/Caminho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/composite/TestaCaminho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/composite/Trecho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/composite/TrechoAndando.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/composite/TrechoDeCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/decorator/Emissor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/decorator/EmissorBasico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/decorator/EmissorDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/decorator/EmissorDecoratorComCompressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/decorator/EmissorDecoratorComCriptografia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/decorator/TesteEmissorDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/facade/Estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/facade/Financeiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/facade/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/facade/PedidoFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/facade/PosVenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/facade/TestePedidoFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/Apresentacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/Slide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/TemaAsterisco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/TemaFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/TemaFlyweightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/TemaHifen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/TemaK19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/flyweight/TestaTemas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/proxy/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/proxy/ContaPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/proxy/ContaProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/proxy/TesteProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FVZSGv03LsIuz7aLnSKoiBQ8cH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TestaCaminho">
+    <configuration name="TestaCaminho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.composite.TestaCaminho" />
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaControleDePonto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.adapter.TestaControleDePonto" />
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteRecibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.bridge.TesteRecibo" />
+      <module name="Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaCaminho" />
+        <item itemvalue="Application.TesteRecibo" />
+        <item itemvalue="Application.TestaControleDePonto" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0875a7f0-c69d-480f-b451-1925783dd308" name="Changes" comment="" />
+      <created>1664579213372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664579213372</updated>
+    </task>
+    <servers />
+  </component>
+</project>
